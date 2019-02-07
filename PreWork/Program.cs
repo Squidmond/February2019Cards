@@ -13,6 +13,7 @@ namespace February2019Cards
             Deck deck = new Deck();
 
             deck.Shuffle();
+
             Console.WriteLine(deck);
 
             Deck otherDeck = new Deck();
